@@ -1,0 +1,31 @@
+# Credentials
+.env
+*.pem
+*.key
+credentials.json
+token.json
+
+# Raw and proprietary data
+data/raw/
+data/external/
+documents/
+*.zip
+
+# Generated/intermediate data
+data/interim/
+data/processed/
+outputs/
+*.parquet
+*.pkl
+*.pickle
+
+# Models and caches
+.cache/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+huggingface/
+models/
+
+# OS files
+.DS_Store

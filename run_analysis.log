@@ -1,0 +1,15 @@
+chair                Powell  Warsh  All
+document_group                         
+chair_communication     168      4  172
+minutes                  67      2   69
+statement                68      2   70
+All                     303      8  311
+         indicator   tone_method  tone_coefficient  robust_se  p_value  dgs3mo_coefficient  r_squared   n
+           DXY (%) lexicon_score         -0.004070   0.004677 0.384183            0.037473   0.068793 311
+           DXY (%) finbert_score         -1.280369   0.821108 0.118921            0.036054   0.074087 311
+        10s2s (bp) lexicon_score         -0.020907   0.051067 0.682240           -0.389076   0.081539 311
+        10s2s (bp) finbert_score          2.616548   8.514563 0.758613           -0.387502   0.081151 311
+  1Y Treasury (bp) lexicon_score          0.048122   0.064368 0.454696            0.863378   0.278265 311
+  1Y Treasury (bp) finbert_score         -7.141607   9.737474 0.463306            0.858674   0.277387 311
+Growth - value (%) lexicon_score         -0.003239   0.012534 0.796116            0.010157   0.000791 311
+Growth - value (%) finbert_score          0.653786   2.145219 0.760546            0.010641   0.000844 311

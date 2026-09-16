@@ -1,0 +1,16 @@
+beautifulsoup4>=4.12
+lxml>=5.0
+matplotlib>=3.8
+nbformat>=5.10
+numpy>=1.26
+pandas>=2.2
+pypdf>=5.0
+python-dotenv>=1.0
+requests>=2.32
+scikit-learn>=1.5
+seaborn>=0.13
+statsmodels>=0.14
+torch>=2.2
+transformers>=4.45
+yfinance>=0.2.54
+
